@@ -3,8 +3,8 @@
 
  
 # Requirement
- 
- 
+* Windows 11 Home
+* logicool webカメラ 720p
 * Python 3.7.15
 * torch==1.13.0+cu117
  
